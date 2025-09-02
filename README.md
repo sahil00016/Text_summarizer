@@ -19,7 +19,8 @@ Screenshot examples live in `img/`.
 ![Demo](img/demo.gif)
 
 ## Screenshot
-![App Screenshot](img/screenshot_frontend.png)
+<img width="1352" height="726" alt="image" src="https://github.com/user-attachments/assets/4f850335-b301-4867-8063-94a264d48874" />
+
 
 ## Repository
 - GitHub: https://github.com/sahil00016/Text_summarizer
