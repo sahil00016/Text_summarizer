@@ -6,6 +6,9 @@ An end-to-end text summarization app:
 
 Screenshot examples live in `img/`.
 
+## Screenshot
+![App Screenshot](img/screenshot_frontend.png)
+
 ## Repository
 - GitHub: https://github.com/sahil00016/Text_summarizer
 
