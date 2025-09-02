@@ -1,0 +1,17 @@
+fastapi>=0.69.0,<=0.70.0
+pydantic>=1.8.0,<2.0.0
+uvicorn>=0.15.0,<0.16.0
+nltk
+numpy<2.0
+pandas
+matplotlib
+transformers
+datasets
+scikit-learn
+ipywidgets
+rouge_score
+--find-links https://download.pytorch.org/whl/torch_stable.html
+# Torch CPU trio pinned for Python 3.10 and Transformers >=4.56
+torch==2.2.2+cpu
+torchvision==0.17.2+cpu
+torchaudio==2.2.2+cpu

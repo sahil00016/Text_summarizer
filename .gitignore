@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.eggs/
+*.pytest_cache/
+*.coverage*
+.coverage
+htmlcov/
+.cache/
+.ipynb_checkpoints/
+*.log
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+backend/.venv*/
+
+# Jupyter
+**/.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+notebooks/__pycache__/
+
+# Node / React
+frontend/node_modules/
+frontend/.parcel-cache/
+frontend/.cache/
+frontend/build/
+frontend/dist/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env/config
+.env
+.env.*
+*.local
+
+# Data / models (large)
+text_summarization/data/
+*.zip
+*.pt
+*.bin
+*.safetensors
+
+# Docker
+**/.docker/
