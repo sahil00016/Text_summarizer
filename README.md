@@ -1,10 +1,22 @@
 # Text Summarizer (T5 + FastAPI + React)
 
+![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.70.0-009688?logo=fastapi)
+![Node](https://img.shields.io/badge/Node-16%2B-339933?logo=node.js)
+![React](https://img.shields.io/badge/React-17-61DAFB?logo=react)
+![Stars](https://img.shields.io/github/stars/sahil00016/Text_summarizer?style=social)
+![Issues](https://img.shields.io/github/issues/sahil00016/Text_summarizer)
+![PRs](https://img.shields.io/github/issues-pr/sahil00016/Text_summarizer)
+
 An end-to-end text summarization app:
 - A fine-tuned T5 model (BBC News dataset) served via FastAPI
 - A React frontend to input text, get summaries, and compute ROUGE metrics
 
 Screenshot examples live in `img/`.
+
+## Demo GIF
+![Demo](img/demo.gif)
 
 ## Screenshot
 ![App Screenshot](img/screenshot_frontend.png)
