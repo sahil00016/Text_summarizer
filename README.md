@@ -15,8 +15,8 @@ An end-to-end text summarization app:
 
 Screenshot examples live in `img/`.
 
-## Demo GIF
-![Demo](img/demo.gif)
+## Demo video
+https://drive.google.com/file/d/1smBocWkUT1N9zYCjGOrqtw59QCdR1N7S/view?usp=drive_link
 
 ## Screenshot
 <img width="1352" height="726" alt="image" src="https://github.com/user-attachments/assets/4f850335-b301-4867-8063-94a264d48874" />
